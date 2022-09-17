@@ -3,7 +3,7 @@ This repo is a guide of how to do Simultaneous localization and mapping (SLAM) o
 ![Screenshot](/images/robot1.png)
 
 ## Development
-After following the tutorial, for executing Gazebo and Rviz
+After following the guide (Dirigida-SLAM.pdf), for executing Gazebo and Rviz
 ```sh
 roslaunch description gazebo.launch
 ```
